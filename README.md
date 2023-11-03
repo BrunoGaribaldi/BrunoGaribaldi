@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 Computer engineering student IUA Argentina
 
