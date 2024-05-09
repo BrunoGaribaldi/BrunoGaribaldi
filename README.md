@@ -1,12 +1,6 @@
 ### 👋
 
-Computer engineering student IUA Argentina
+Third year student of computer engineering at IUA Argentina
 
-## Skills
-#### 🔭 I’m currently working on:
-- C/C++
-- JAVA 
-- SQL
-- SystemVerilog
-- Assembly in ARM
+
 
